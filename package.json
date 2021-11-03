@@ -27,7 +27,7 @@
         "prop-types": "^15.7.2",
         "react-avatar": "^3.9.7",
         "socket.io": "^2.4.0",
-        "validator": "^11.0.0"
+        "validator": "^13.7.0"
     },
     "devDependencies": {
         "eslint": "^5.16.0",
